@@ -1,0 +1,57 @@
+body{
+
+    margin: 10%;
+}
+
+h1{
+    text-align: center;
+
+}
+
+#horizontal_line{
+    width: 1px;
+    height: 500px;
+    background-color: black;
+}
+
+img{
+    display: inline-block;
+    width: 50%;
+    border: #000000 6px double;
+}
+.p_deg{
+    font-style: italic;
+    font-size: 140%;
+}
+
+.p_deg1{
+    font-size: 130%;
+    font-style: italic;
+}
+
+.p_deg2{
+    font-size: 140%;
+    font-style: oblique;
+}
+
+.img_deg{
+    width: 70%;
+}
+
+.img_personal{
+    float: right;
+    width: 50%;
+}
+
+.img_deg5{
+    float: left;
+    width: 33%;
+}
+
+.p_deg3{
+    font-size: 130%;
+}
+
+.p_deg4{
+    font-size: 100%;
+}
